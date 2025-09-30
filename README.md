@@ -1,1 +1,1 @@
-# Mini-Max-Sum-ALGO
+This program calculates the minimum and maximum sums of four out of five integers in a list by subtracting the largest number for the minimum sum and the smallest number for the maximum sum, then prints both results.
